@@ -137,6 +137,9 @@ const orion = {
     <td width="50%" valign="top">
       <h3 align="center">🚀 Full-Stack SaaS Project</h3>
       <div align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" alt="Rocket" />
+      </div>
+      <div align="center">
         <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, PostgreSQL</p>
         <p>Complete SaaS application with authentication, Stripe payments, and analytics dashboard</p>
         <br/>
